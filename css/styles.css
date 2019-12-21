@@ -116,11 +116,11 @@ h1 {
   background-color: #66b3ff;
 }
 
-/*#mycheck-3:checked ~ i {
+#mycheck-3:checked~i {
   color: #01b468;
 }
 
-.fa-heart {
+/*.fa-heart {
   position: relative;
   left: 150px;
   top: -58px;
