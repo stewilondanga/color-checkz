@@ -26,7 +26,7 @@ h1 {
   padding-left: 50px;
 }
 
-/*.bar {
+.bar {
   width: 120px;
   height: 60px;
   background-color: #f0f0f0;
@@ -35,7 +35,7 @@ h1 {
   box-shadow: inset 0px 2px 2px 2px rgba(51, 51, 102, 0.4);
 }
 
-#mycheck-1 {
+/*#mycheck-1 {
   display: none;
 }
 
