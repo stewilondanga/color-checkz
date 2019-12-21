@@ -98,11 +98,11 @@ h1 {
   background-color: #66b3ff;
 }
 
-/*#mycheck-2:checked ~ i {
+#mycheck-2:checked~i {
   color: #46a3ff;
 }
 
-#mycheck-3:checked + .switch:before {
+/*#mycheck-3:checked + .switch:before {
   position: relative;
   left: 60px;
   content: "";
