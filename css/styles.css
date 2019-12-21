@@ -22,11 +22,11 @@
   align-items: center;
 }
 
-/*h1 {
+h1 {
   padding-left: 50px;
 }
 
-.bar {
+/*.bar {
   width: 120px;
   height: 60px;
   background-color: #f0f0f0;
