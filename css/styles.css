@@ -143,7 +143,7 @@ h1 {
   padding: 8px 0px 0px 0px;
 }
 
-/*.fa-child {
+.fa-child {
   position: relative;
   left: 150px;
   top: -58px;
@@ -155,7 +155,7 @@ h1 {
   padding-left: 3.5px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
