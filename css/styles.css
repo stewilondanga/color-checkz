@@ -84,7 +84,7 @@ h1 {
   color: #ff7575;
 }
 
-/*#mycheck-2:checked + .switch:before {
+#mycheck-2:checked+.switch:before {
   position: relative;
   left: 60px;
   content: "";
@@ -98,7 +98,7 @@ h1 {
   background-color: #66b3ff;
 }
 
-#mycheck-2:checked ~ i {
+/*#mycheck-2:checked ~ i {
   color: #46a3ff;
 }
 
