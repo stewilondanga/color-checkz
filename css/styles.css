@@ -47,12 +47,12 @@ h1 {
   display: none;
 }
 
-/*.switch {
+.switch {
   display: block;
   cursor: pointer;
 }
 
-.switch:before {
+/*.switch:before {
   position: relative;
   left: 0px;
   content: "";
